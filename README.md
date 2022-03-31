@@ -2,13 +2,13 @@
 ### 👋 Hello world
 
 I'm a Software and Networks engineer.
-<br>
-I'm currently a student at EMSI.
-<br>
+<br/>
+Currently a student at EMSI.
+<br/>
 Interested in DevOps and CI/CD in Cloud based Infrastructures.
-<br>
+<br/>
 You can reach me by email at : yassine@cellardoor.info
-<br>
+<br/>
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
