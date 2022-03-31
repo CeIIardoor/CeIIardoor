@@ -1,11 +1,16 @@
+-----
 ### 👋 Hello world
 
 I'm a Software and Networks engineer.
+<br>
 I'm currently a student at EMSI.
+<br>
 Interested in DevOps and CI/CD in Cloud based Infrastructures.
+<br>
 You can reach me by email at : yassine@cellardoor.info
-
-### 🎮 Let's play Pokémon together~
+<br>
+-----
+### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
 
 <img src="https://raw.githubusercontent.com/CeIIardoor/CeIIardoor/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/CeIIardoor"><img src="https://raw.githubusercontent.com/CeIIardoor/CeIIardoor/master/img/up.png" width="30"/></a>
