@@ -1,6 +1,8 @@
 ### 👋 Hello world
 
-I'm a Software and Network engineer. Currently, I'm a student at EMSI.
+I'm a Software and Networks engineer.
+I'm currently a student at EMSI.
+Interested in DevOps and CI/CD in Cloud based Infrastructures.
 You can reach me by email at : yassine@cellardoor.info
 
 ### 🎮 Let's play Pokémon together~
@@ -13,7 +15,7 @@ You can reach me by email at : yassine@cellardoor.info
 
 -----
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+Click buttons above to issue new gamepad input, refresh this page to view newest game screen.
 
 <details><summary>About this game section</summary>
   
