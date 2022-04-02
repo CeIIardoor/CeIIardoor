@@ -3,13 +3,12 @@
 
 I'm a Software and Networks engineer.
 <br/>
-Currently a student at EMSI.
+<a href="https://github.com/CeIIardoor/CV/blob/master/Laouina_Yassine_CV.pdf">Curriculum Vitae</a>
 <br/>
 Interested in DevOps and CI/CD in Cloud based Infrastructures.
 <br/>
 You can reach me by email at : yassine@cellardoor.info
 <br/>
-<a href="https://github.com/CeIIardoor/CV/blob/master/Laouina_Yassine_CV.pdf">curriculum vitae</a>
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
