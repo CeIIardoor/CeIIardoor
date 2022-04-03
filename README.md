@@ -3,7 +3,7 @@
 
 I'm a Software and Networks engineer.
 <br/>
-<a href="https://github.com/CeIIardoor/CV/blob/master/Laouina_Yassine_CV.pdf">Curriculum Vitae</a>
+<a href="https://github.com/CeIIardoor/CeIIardoor/blob/master/Laouina_Yassine_CV.pdf">Curriculum Vitae</a>
 <br/>
 Interested in DevOps and CI/CD in Cloud based Infrastructures.
 <br/>
