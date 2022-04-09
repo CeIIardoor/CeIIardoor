@@ -9,11 +9,9 @@ Interested in DevOps and CI/CD in Cloud based Infrastructures.
 <br/>
 You can reach me by email at : yassine@cellardoor.info
 <br/>
-Links :
+Useful links :
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI Articles : medium.com/@yassinelaouina
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Sandbox : cellardoor.info
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medium.com/@yassinelaouina
 <br/>
 -----
 ### 🎮 Feel free to play some Pokemon
