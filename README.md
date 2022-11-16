@@ -1,11 +1,11 @@
 -----
 ### 👋 Hello world
 
-I'm a Software and Networks engineer.
+I'm a Software and Networks engineer, aspiring to be a Software Architect.
 <br/>
 <a href="https://github.com/CeIIardoor/CeIIardoor/blob/master/Laouina_Yassine_CV.pdf">Curriculum Vitae</a>
 <br/>
-Interested in DevOps and CI/CD in Cloud based Infrastructures.
+Interested in Back-End Software Developpement, Database Management, Server administration.
 <br/>
 You can reach me by email at : yassine@cellardoor.info
 <br/>
