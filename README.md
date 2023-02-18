@@ -11,7 +11,7 @@ You can reach me by email at : yassine@cellardoor.info
 <br/>
 Useful links :
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medium.com/@yassinelaouina
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI Articles : https://medium.com/@yassinelaouina
 <br/>
 <br/>
 <br/>
