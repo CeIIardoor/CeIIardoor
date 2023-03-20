@@ -1,17 +1,17 @@
 -----
 ### 👋 Hello world
 
-I'm a Software and Networks engineer, aspiring to be a Software Architect.
+I'm a Software and Networks engineer, and an aspiring Software Architect.
 <br/>
-<a href="https://github.com/CeIIardoor/CeIIardoor/blob/master/Laouina_Yassine_CV.pdf">Curriculum Vitae</a>
+<a href="https://cellardoor.info/cv">Curriculum Vitae</a>
 <br/>
-Interested in Back-End Software Developpement, Database Management, Server administration.
+Interested in Back-End & Software Developpement, Database Management, Server administration.
 <br/>
-You can reach me by email at : yassine@cellardoor.info
+You can reach me by email at : laouinayassine@gmail.com
 <br/>
 Useful links :
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI Articles : https://medium.com/@yassinelaouina
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
 <br/>
 <br/>
 <br/>
