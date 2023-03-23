@@ -3,7 +3,7 @@
 
 I'm a Software and Networks engineer, and an aspiring Software Architect.
 <br/>
-<a href="https://cellardoor.info/cv">Curriculum Vitae</a>
+<a href="https://cellardoor.info/CV_LAOUINA_Yassine">Curriculum Vitae</a>
 <br/>
 Interested in Back-End & Software Developpement, Database Management, Server administration.
 <br/>
