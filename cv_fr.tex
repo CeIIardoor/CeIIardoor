@@ -1,0 +1,291 @@
+
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\setlength{\multicolsep}{0pt} 
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot{}
+\DeclareUnicodeCharacter{2217}{\star}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=0.6cm, top=0.5cm, right=0.6cm, bottom=0.5cm}
+
+
+
+
+\usepackage[most]{tcolorbox}
+\tcbset{
+	frame code={}
+	center title,
+	left=0pt,
+	right=0pt,
+	top=0pt,
+	bottom=0pt,
+	colback=gray!20,
+	colframe=white,
+	width=\dimexpr\textwidth\relax,
+	enlarge left by=-2mm,
+	boxsep=4pt,
+	arc=0pt,outer arc=0pt,
+}
+
+\urlstyle{same}
+
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+\newcommand{\resitem}[1]{\item #1 \vspace{-1pt}}
+\newcommand{\resheading}[1]{\vspace{8pt}
+  \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
+    \begin{shaded}
+\setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}\fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}\makebox[6.762in][l]{\large #1} \vphantom{p\^{E}}}}}}
+    \end{shaded}
+  }\vspace{-5pt}
+}
+
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{6.5in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+
+
+
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{:\hspace{0.5mm}#2 \vspace{-0.5mm}}
+  }
+}
+
+\newcommand{\resumePOR}[3]{
+\vspace{0.3mm}\item
+    \begin{tabular*}{0.87\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1},\hspace{0.2mm}#2 & \textit{\small{#3}} 
+    \end{tabular*}
+    \vspace{-2mm}
+}
+
+\newcommand{\resumeSubheading}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#4}} \\
+        \textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeProject}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#3}} \\
+        \footnotesize{\textit{#2}} & \footnotesize{#4}
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=0mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{justify}\begin{itemize}[leftmargin=3ex, rightmargin=2ex, noitemsep,labelsep=1.2mm,itemsep=0mm]\small}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\end{justify}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{
+\vspace{2mm}
+\begin{tcolorbox}
+    \textbf{\large #1}
+\end{tcolorbox}
+    \vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+
+
+\newcommand{\name}{LAOUINA Yassine}
+\newcommand{\course}{Ingénierie Informatique et Réseaux} 
+\newcommand{\roll}{2019-2024} 
+\newcommand{\phone}{62 71 82 28} 
+\newcommand{\emaila}{laouinayassine@gmail.com} 
+\newcommand{\github}{github.com/ceiiardoor} 
+\newcommand{\website}{https://cellardoor.info}
+\newcommand{\linkedin}{linkedin.com/in/laouina-yassine} 
+
+
+\begin{document}
+\fontfamily{cmr}\selectfont
+
+\parbox{2.35cm}{
+
+\includegraphics[width=2cm,clip]{logo.png}
+
+}
+\parbox{\dimexpr\linewidth-2.8cm\relax}{
+\begin{tabularx}{\linewidth}{L r}
+  \textbf{\LARGE \name} & +212 6 \phone\\
+  
+  \course &  \href{mailto:\emaila}{\emaila}\\
+   {Tech Lead @ Google Developer Student Club} &  \href{https://github.com/ceiiardoor}{\github} \\ 
+  {EMSI Rabat, Maroc} & \href{https://www.linkedin.com/in/laouina-yassine/}{\linkedin} & \href{https://cellardoor.info/}{\website} 
+\end{tabularx}
+}
+\vspace{-3mm}
+
+\section{\textbf{Présentation}}
+Informaticien enthousiaste avec une \textbf{expérience en préstations Web}. Ayant des compétences distinguées en \textbf{communication}. Cherchant à perfectionner mes connaissances en participant à des projets sur une plus grande échelle.
+
+\vspace{-3mm}
+\section{\textbf{Éducation}}
+\setlength{\tabcolsep}{5pt} 
+
+\begin{itemize}
+\item
+	\ressubheading{École Marocaine des Sciences de l'Ingénieur}{Rabat, MA}{Ingénierie Informatique et Réseaux}{2019 - 2024}
+	\begin{itemize}
+		\resitem{Approfondissement aux outils et méthodes de la création et maintenance Logiciel}
+	\end{itemize}
+
+\item
+	\ressubheading{Université de Lille}{Lille, FR}{2ème année Licence Informatique}{2017 - 2018}
+	\begin{itemize}
+		\resitem{Réorientation en Semestre 3 d'Harmonisation (S3H) de la Licence d'Informatique}
+	\end{itemize}
+	
+\item
+	\ressubheading{École Centrale de Lille, ITEEM}{Lille, FR}{Années Préparatoires}{2015 - 2017}
+	\begin{itemize}
+		\resitem{Option : Génie Industriel et Entrepreneurial}
+	\end{itemize}
+	
+\item
+	\ressubheading{Groupe pédagogique Alpha}{Kénitra, MA}{Baccalauréat}{2015}
+	\begin{itemize}
+		\resitem{Option : Sciences Mathématiques B Mention Bien}
+	\end{itemize}	
+\end{itemize}
+\vspace{-5mm}
+
+
+\section{\textbf{Éxperiences Professionnelle}}
+\resumeSubHeadingListStart 
+    \resumeProject
+      {Averti.fr} 
+      {https://averti.cellardoor.info | https://weavent.cellardoor.info}
+      {Septembre. 2016 - Juin. 2019} 
+      {\href{https://telerp.cellardoor.info}{\textbf{Lille, FR}}}
+      \vspace{-2mm}
+      \resumeItemListStart
+          \item {Créateur digital après un stage de 3 mois, sous traitance pour Credit agricole et Ilévia (ex-Transpole)}
+        \item {Participation à la création, maintenance et deploiement des sites internes et plusieurs projets clients.}
+      \resumeItemListEnd
+          \vspace{-3mm}
+    \resumeProject
+      {Yakside.org} 
+    {instagram.com/yaksidefr}
+      {Avril. 2015 - Juin. 2016} 
+      {{\textbf{Lille, FR}}}
+      \vspace{-2mm}
+      \resumeItemListStart
+        \item {Responsable Marketing Digital}
+        \item {Marque éco-responsable et solidaire de sacs à dos en chanvre, fabriquès artisanalement au Nepal.}
+      \resumeItemListEnd
+     \vspace{-2mm}
+\resumeSubHeadingListEnd
+\vspace{-7mm}
+
+\section{\textbf{Stages et projets académiques}}
+\resumeSubHeadingListStart 
+    \resumeProject
+      {TelERP} 
+      {Live Demo : https://telerp.cellardoor.info}
+      {Juillet 2022 - Septembre 2022} 
+      {\href{https://telerp.cellardoor.info}{\textbf{SPETIC}}}
+        \vspace{-2mm}
+      \resumeItemListStart
+        \item {Une application Monopage Web et Desktop centralisée qui regroupe l'ensemble des tâches liées à l'utilisation et à la gestion des abonnements téléphoniques, internet et fax au sein d'une organisation.}
+        \item {Mots Clés : MVC, SPA, Laravel 9, Vue 3, ElectronJS, TailwindCSS, MySQL, Ubuntu 20.04, Git Hooks}
+      \resumeItemListEnd
+      \vspace{-3mm}
+    \resumeProject
+      {Grocery Store} 
+    {Live Demo : https://dotnetstore.cellardoor.info/}
+      {Projet S7 : Module .NET} 
+      {{\textbf{EMSI Rabat}}}
+    \vspace{-2mm}
+      \resumeItemListStart
+        \item {Une boutique de vente en ligne de produits alimentaires. Avec l'implementation d'un panier d'achat et d'un système d'authentification basés sur Linq, Identity Framework, Entity Framework.}
+        \item {Mot clés : MVVM, ASP.Net Core 6, HTMX (reactivity), BoostrapCSS, SQL Server, Kestrel, Nginx Reverse Proxying }
+      \resumeItemListEnd
+     \vspace{-2mm}
+\resumeSubHeadingListEnd
+\vspace{-7mm}
+
+\section{\textbf{Compétences Techniques}}
+ \resumeHeadingSkillStart
+  \resumeSubItem{Languages de programmation} 
+    { Java, C/C++, Javacript, Python, PHP}
+    \vspace{-0.5mm} 
+ \resumeSubItem{Tools and Frameworks} 
+    { Spring boot, Angular, SeleniumBase, React, Laravel, VueJS, PL/T-SQL, UML, Jupyter, Talend, Git Actions \& Hooks, Administration SQL et Linux, Bash scripting, Virtualisation et Conteneurisation (docker)} 
+    \vspace{-0.5mm} 
+    \resumeSubItem{Management de Projet} 
+    {Waterfall, Methodologies Agiles, SCRUM,  MsProject, Gantt, Kanban} 
+    \vspace{-0.5mm} 
+ \resumeHeadingSkillEnd
+\vspace{-2mm}
+
+\section{\textbf{Parascolaire}}
+\resumeHeadingSkillStart
+ \resumeSubItem{Google Developer Student Club} 
+    {Actuellement Tech Lead au GDSC EMSI Rabat, Je suis lead technique et speaker dans les talks autour des nouvelles technologies Web.}
+    
+ \resumeSubItem{Cobalt Sport ITEEM}
+ {Une association ayant pour but de rassembler les entrepreneurs, étudiants et salariés autour d'un contexte sportif. Organisation et arbitrage au Start-Up Challenge 2016. }
+
+
+\resumeHeadingSkillEnd
+\vspace{-3mm}
+
+\section{\textbf{Langues}}
+    \resumeItemListStart
+        \item {{\textbf{ Francais :}}}
+        {Diplôme approfondi de langue française (DALF) C1, score : 74/100 }
+        \item {{\textbf{ Anglais : }}}
+        {Bilingue, rédaction d'articles sur l' IA et traitement des données \href{https://medium.com/@yassinelaouina}{(medium.com/@yassinelaouina)}}
+        \item {{\textbf{ Espagnol :}}}
+        {Niveau élémentaire}
+    \resumeItemListEnd
+\vspace{-4mm}
+
+\end{document}
