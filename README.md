@@ -17,6 +17,7 @@ Useful links :
 <br/>
 <br/>
 <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
