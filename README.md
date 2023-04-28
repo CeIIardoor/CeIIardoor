@@ -1,11 +1,8 @@
 -----
 ### 👋 Hello world
-
 I'm a Software and Networks engineer, and an aspiring Software Architect.
 <br/>
-<a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine_Eng">Curriculum Vitae</a>
-<br>
-<a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine">(French Version)</a>
+<a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine_Eng">Curriculum Vitae</a> | <a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine">(French Version)</a>
 <br/>
 Interested in Back-End & Software Developpement, Database Management, Server administration.
 <br/>
@@ -14,10 +11,11 @@ You can reach me by email at : laouinayassine@gmail.com
 Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
-<br/>
-<br/>
-<br/>
+-----
 [![GitHub Streak](https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br/>
+![CeIIardoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeIIardoor&show_icons=true&theme=transparent)
+<br/>
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
