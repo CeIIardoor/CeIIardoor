@@ -4,7 +4,7 @@ I'm a Software and Networks engineer, and an aspiring Software Architect.
 <br/>
 <a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine_Eng">Curriculum Vitae</a> | <a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine">(French Version)</a>
 <br/>
-Interested in Back-End & Software Developpement, Database Management, Server administration.
+Interested in Back-End & Software Development, Database Management, Server administration.
 <br/>
 You can reach me by email at : laouinayassine@gmail.com
 <br/>
@@ -12,15 +12,21 @@ Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
 -----
-<a href="https://cellardoor.info">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=CeIIardoor&show_icons=true&theme=transparent&hide=issues&count_private=true&show_icons=true" />
+<br/>
+<a href="#">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=CeIIardoor&layout=compact&hide=blade,html,css&langs_count=10&size_weight=0.5&count_weight=0.5&hide_progress=true" />
 </a>
-<a href="https://cellardoor.info">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-<a href="https://cellardoor.info">
+<a href="#">
   <img align="center" src="https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" />
 </a>
+<br>
+<a href="#">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=CeIIardoor&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&show_owner=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/wakatime?username=33ad2655-6a77-4d68-b0d1-af615910ae94" />
+</a>
+
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
