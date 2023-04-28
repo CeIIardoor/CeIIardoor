@@ -23,9 +23,6 @@ Useful links :
 <a href="#">
   <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=CeIIardoor&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&show_owner=true" />
 </a>
-<a href="#">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/wakatime?username=33ad2655-6a77-4d68-b0d1-af615910ae94" />
-</a>
 <br/>
 
 -----
