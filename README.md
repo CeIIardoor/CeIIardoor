@@ -12,12 +12,15 @@ Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
 -----
-[![GitHub Streak](https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br/>
-![CeIIardoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeIIardoor&show_icons=true&theme=transparent)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<a href="https://cellardoor.info">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=CeIIardoor&show_icons=true&theme=transparent&hide=issues&count_private=true&show_icons=true" />
+</a>
+<a href="https://cellardoor.info">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+<a href="https://cellardoor.info">
+  <img align="center" src="https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" />
+</a>
 -----
 ### 🎮 Feel free to play some Pokemon
 <img src="https://toy.aoaoao.me/image" width="300"/> 
