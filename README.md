@@ -11,6 +11,7 @@ You can reach me by email at : laouinayassine@gmail.com
 Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
+<br/>
 -----
 <br/>
 <a href="#">
