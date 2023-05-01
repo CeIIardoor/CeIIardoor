@@ -17,10 +17,6 @@ Useful links :
   <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=CeIIardoor&layout=compact&hide=blade,html,css,jupyter%20notebook&langs_count=10&size_weight=1&count_weight=0&hide_progress=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://streak-stats.demolab.com?user=CeIIardoor&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" />
-</a>
-<br>
-<a href="#">
   <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=CeIIardoor&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&show_owner=true" />
 </a>
 <br/>
