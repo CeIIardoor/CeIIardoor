@@ -12,6 +12,8 @@ Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
 
+[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/USERNAME)
+
 <br/>
 <a href="#">
   <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=CeIIardoor&layout=compact&hide=blade,html,css,jupyter%20notebook&langs_count=10&size_weight=1&count_weight=0&hide_progress=true" />
