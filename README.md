@@ -12,7 +12,7 @@ Useful links :
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My AI and Data Processing Articles : https://medium.com/@yassinelaouina
 
-[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/morocco/CeIIardoor.svg)](https://user-badge.committers.top/morocco/CeIIardoor)
 
 <br/>
 <a href="#">
