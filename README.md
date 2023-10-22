@@ -2,7 +2,7 @@
 ### 👋 Hello world
 I'm a Software and Networks engineer, and an aspiring Software Architect.
 <br/>
-<a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine_Eng">Curriculum Vitae</a> | <a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine">(French Version)</a>
+<a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine_Eng?ref=CVGitProfileEng">Curriculum Vitae</a> | <a target="_blank" href="https://cellardoor.info/CV_LAOUINA_Yassine?ref=CVGitProfileFr">(French Version)</a>
 <br/>
 Interested in Back-End & Software Development, Database Management, Server administration.
 <br/>
